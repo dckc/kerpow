@@ -1,2 +1,3 @@
 # hint: sudo pip install -r requirements.txt
 flask
+beautifulsoup4
